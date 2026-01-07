@@ -1,0 +1,3 @@
+﻿  Player.cpp
+D:\CS Object\cs235_350-hbrumley\Projects\p4_StudentProject\Student Project 4\Student Project 4\Player.cpp(340,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Student Project 4.vcxproj -> D:\CS Object\cs235_350-hbrumley\Projects\p4_StudentProject\Student Project 4\Debug\Student Project 4.exe
