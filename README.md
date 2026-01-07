@@ -39,6 +39,3 @@ The game includes the following features:
 ## Running the Program
 
 The program will prompt the player to place their ships on a 9x9 grid by entering the coordinates for each ship. After the ships are placed, the player will take turns attacking the computer’s ships, and the computer will also attack the player's ships. The game ends when either the player or the computer sinks all the opponent's ships.
-
-### Example:
-
